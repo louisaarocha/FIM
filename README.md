@@ -2,7 +2,7 @@
 ---------
 
 ## Project Summary 
-This project emphasizes the importance of integrity in cybersecurity by demonstrating a basic file integrity monitor that will monitor files and have the ability to raise alerts when changes have occured to the files. 
+This project emphasizes the importance of integrity in cybersecurity by demonstrating the implementation of a basic file integrity monitor that will monitor files and have the ability to raise alerts when changes have occurred to the files. 
 
 ## Project Steps
 
