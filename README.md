@@ -4,6 +4,17 @@
 ## Project Summary 
 This project emphasizes the importance of integrity in cybersecurity by demonstrating the implementation of a basic file integrity monitor that will monitor files and have the ability to raise alerts when changes have occurred to the files. 
 
+## Skills Demonstrated 
+- PowerShell Proficiency
+- Data Integrity Management
+- User-Friendly Interface
+- Hash Calculation
+- File Monitoring Logic
+- Baseline Management
+- Continuous Monitoring
+- Alerting Mechanisms
+- Security Awareness
+  
 ## Project Steps
 
 1. **FIM Folder**
